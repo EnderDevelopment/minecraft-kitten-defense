@@ -1,0 +1,19 @@
+name: Steal a Kitten!
+version: 1.0.0
+main: com.enderdevelopment.plugin.Main
+author: EnderDevelopment
+description: A base-defense collection simulator where players collect kittens and generate cash
+api-version: "1.21"
+commands:
+  base:
+    description: Manage your base
+    usage: /base
+  collect:
+    description: Collect a kitten
+    usage: /collect
+  shop:
+    description: Open the shop
+    usage: /shop
+  codes:
+    description: Redeem a code
+    usage: /codes
